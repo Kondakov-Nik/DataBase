@@ -1,0 +1,16 @@
+C:\Users\User\Downloads\Data_Base\bin\Debug\Data_Base.exe.config
+C:\Users\User\Downloads\Data_Base\bin\Debug\Data_Base.exe
+C:\Users\User\Downloads\Data_Base\bin\Debug\Data_Base.pdb
+C:\Users\User\Downloads\Data_Base\obj\Debug\Data_Base.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Data_Base\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Data_Base\obj\Debug\App.g.cs
+C:\Users\User\Downloads\Data_Base\obj\Debug\Data_Base_MarkupCompile.cache
+C:\Users\User\Downloads\Data_Base\obj\Debug\Data_Base_MarkupCompile.lref
+C:\Users\User\Downloads\Data_Base\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Data_Base\obj\Debug\Data_Base.g.resources
+C:\Users\User\Downloads\Data_Base\obj\Debug\Data_Base.Properties.Resources.resources
+C:\Users\User\Downloads\Data_Base\obj\Debug\Data_Base.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Data_Base\obj\Debug\Data_Base.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Data_Base\obj\Debug\Data_Base.exe
+C:\Users\User\Downloads\Data_Base\obj\Debug\Data_Base.pdb
+C:\Users\User\Downloads\Data_Base\obj\Debug\Data_Base.csproj.SuggestedBindingRedirects.cache

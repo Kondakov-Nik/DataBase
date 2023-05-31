@@ -1,22 +1,17 @@
-﻿// База данных работиников озон
+﻿// База данных работников озон
 // author Kondakov N.S
 
-// todo иконка
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.ComponentModel;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace Data_Base //определение пространства имен Data_Base
+namespace Data_Base // определение пространства имен Data_Base
 {
-    public class DataWork //классс для работы с базой
+    public class DataWork // класс для работы с базой
     {
         // коллекция workers объектов типа WorkersOzon
         public ObservableCollection<WorkersOzon> workers;
